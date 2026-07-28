@@ -8,7 +8,7 @@
   "server": {
     "ip": "w4rdSMP.aternos.me",
     "port": 24705,
-    "version": "1.20.4"
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
